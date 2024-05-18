@@ -1,0 +1,13 @@
+This is the first app that I have created.
+
+Overview
+GreetingsApp is an Android application designed to welcome users by their name. The app consists of a single activity where users can input their name, and upon clicking a button, they receive a personalized greeting displayed via a Toast message.
+
+Key Components
+
+MainActivity.java:
+The main activity of the app where the user interaction occurs.
+It includes an EditText for user input, a Button to trigger the greeting, and a TextView to display the title.
+
+activity_main.xml:
+The layout file defining the UI elements: an EditText for name input, a Button for submitting the name, and a TextView for the app's title.
