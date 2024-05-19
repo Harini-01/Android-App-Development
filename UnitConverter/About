@@ -1,0 +1,10 @@
+Overview
+UnitConverterApp is an Android application that allows users to convert values from meters to centimeters through an easy-to-use interface. This project demonstrates fundamental Android development concepts, such as user input handling, event-driven programming, and basic mathematical operations.
+
+Key Components
+MainActivity.java:
+The main activity of the app is where the conversion logic is implemented.
+It includes an EditText for user input, a Button to trigger the conversion, and TextView elements to display the title and the converted value.
+
+activity_main.xml:
+The layout file defines the UI elements: an EditText for entering the value in meters, a Button for initiating the conversion, and TextView elements for displaying the title and the conversion result.
