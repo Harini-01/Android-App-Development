@@ -1,0 +1,11 @@
+Overview
+SimpleCounterApp is an Android application that allows users to increase a counter value through a straightforward interface. The primary functionality is incrementing the counter each time a button is clicked. This project demonstrates fundamental concepts of Android development, including user interface design, event handling, and state management.
+
+Key Components:
+
+MainActivity.java:
+The main activity where user interactions are managed.
+Includes a TextView to display the current count, a Button to increment the count, and a TextView for the title.
+
+activity_main.xml:
+The layout file defining the UI elements: a button to increment the counter and text views for displaying the counter value and title.
